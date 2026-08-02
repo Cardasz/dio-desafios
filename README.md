@@ -38,14 +38,15 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 |                       Desafio                       |                           Código                           | SQ  |
 | :-------------------------------------------------: | :--------------------------------------------------------: | :-: |
-|            Classificador de Nível de Herói          | [🔗](<./Formação Lógica de Programação/Classificador de Nível de Herói.js>) |     |
-|           Calculadora de Partidas Rankeadas         | [🔗](<./Formação Lógica de Programação/Calculadora de Partidas Rankeadas.js>) |     |
-|                   Jornada do Herói                  | [🔗](<./Formação Lógica de Programação/Jornada do Herói.js>) |     |
-|                 Pontos de Experiência               | [🔗](<./Formação Lógica de Programação/Pontos de Experiência.js>) |     |
-|              Capturando Pokémons Iniciais           | [🔗](<./Formação Lógica de Programação/Capturando Pokémons Iniciais.js>) |     |
-|             Coleta de Tesouros no Dungeon           | [🔗](<./Formação Lógica de Programação/Coleta de Tesouros no Dungeon.js>) |     |
-|        Geração de Biomas em um Mundo de Blocos      | [🔗](<./Formação Lógica de Programação/Geração de Biomas em um Mundo de Blocos.js>) |     |
-|             Combinando Nomes de Pokémons            | [🔗](<./Formação Lógica de Programação/Combinando Nomes de Pokémons.js>) |     |
-|            Gerenciamento de Itens Mágicos           | [🔗](<./Formação Lógica de Programação/Gerenciamento de Itens Mágicos.js>) |     |
+|            Classificador de Nível de Herói          | [🔗](<./Formação Lógica de Programação/JavaScript/Classificador de Nível de Herói.js>) |     |
+|           Calculadora de Partidas Rankeadas         | [🔗](<./Formação Lógica de Programação/JavaScript/Calculadora de Partidas Rankeadas.js>) |     |
+|                   Jornada do Herói                  | [🔗](<./Formação Lógica de Programação/JavaScript/Jornada do Herói.js>) |     |
+|                 Pontos de Experiência               | [🔗](<./Formação Lógica de Programação/JavaScript/Pontos de Experiência.js>) |     |
+|              Capturando Pokémons Iniciais           | [🔗](<./Formação Lógica de Programação/JavaScript/Capturando Pokémons Iniciais.js>) |     |
+|             Coleta de Tesouros no Dungeon           | [🔗](<./Formação Lógica de Programação/JavaScript/Coleta de Tesouros no Dungeon.js>) |     |
+|        Geração de Biomas em um Mundo de Blocos      | [🔗](<./Formação Lógica de Programação/JavaScript/Geração de Biomas em um Mundo de Blocos.js>) |     |
+|             Combinando Nomes de Pokémons            | [🔗](<./Formação Lógica de Programação/JavaScript/Combinando Nomes de Pokémons.js>) |     |
+|            Gerenciamento de Itens Mágicos           | [🔗](<./Formação Lógica de Programação/JavaScript/Gerenciamento de Itens Mágicos.js>) |     |
+|            Escrevendo as Classes de Um Jogo         | [🔗](<./Formação Lógica de Programação/JavaScript/Escrevendo as Classes de Um Jogo.js>) |     |
 
 </details>
