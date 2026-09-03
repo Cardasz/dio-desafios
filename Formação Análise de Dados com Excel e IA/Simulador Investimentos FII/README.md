@@ -23,6 +23,3 @@ Projeto desenvolvido como parte da Formação Análise de Dados com Excel e IA d
 *(Substitua o caminho abaixo pelos nomes reais das suas imagens na pasta images)*
 ![Perfil de Investidor](images/Validacao_Perfil.png)
 ![Dashboard de Cenários](images/Dashboard.png)
-
-## 👨‍💻 Autor
-**Gabriel Cardoso de Moraes**
