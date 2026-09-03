@@ -16,6 +16,11 @@ A planilha foi construída com foco em usabilidade, contendo menus de navegaçã
 * Fórmulas lógicas e de busca
 * Design de interface (UI) focado na experiência do usuário
 
+## 📸 Demonstração Visual
+![Títular](images/Títular.png)
+![Informes](images/Informes.png)
+![Notas](images/Notas.png)
+
 ## 📁 Estrutura de Arquivos
 ```text
 📦 Organizador de Declaração de Imposto de Renda

@@ -20,6 +20,5 @@ Projeto desenvolvido como parte da Formação Análise de Dados com Excel e IA d
 - Modelagem de Dados (Chaves Compostas e Tabelas Auxiliares)
 
 ## 📸 Demonstração Visual
-*(Substitua o caminho abaixo pelos nomes reais das suas imagens na pasta images)*
 ![Perfil de Investidor](images/Validacao_Perfil.png)
 ![Dashboard de Cenários](images/Dashboard.png)
